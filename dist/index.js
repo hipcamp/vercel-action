@@ -1177,7 +1177,7 @@ async function setEnv() {
   }
 }
 
-async function addVercelMetadata(key, value, providedArgs) {
+function addVercelMetadata(key, value, providedArgs) {
   // returns a list for the metadata commands if key was not supplied by user in action parameters
   // returns an empty list if key was provided by user
   const pattern = `^${key}=.+`;
