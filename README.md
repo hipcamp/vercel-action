@@ -1,5 +1,9 @@
 # Vercel Action
 
+```
+THIS REPOSITORY HAS BEEN ARCHIVED AND IS NO LONGER MAINTAINED. PLEASE USE amondnet/vercel-action FOR VERCEL DEPLOYMENTS WITHIN GITHUB ACTIONS.
+```
+
 ![deploy website preview](https://github.com/amondnet/vercel-action/workflows/deploy%20website%20preview/badge.svg)
 ![test now-deployment action](https://github.com/amondnet/vercel-action/workflows/test%20now-deployment%20action/badge.svg)
 ![example - static](https://github.com/amondnet/vercel-action/workflows/example%20-%20static/badge.svg)
